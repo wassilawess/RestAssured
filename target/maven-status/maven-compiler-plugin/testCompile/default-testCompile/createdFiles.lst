@@ -1,0 +1,14 @@
+APIProject\ParsingJsonResponseData.class
+APIProject\CookiesTest.class
+APIProject\CreateBodyReq.class
+APIProject\APITest.class
+APIProject\GetHeader.class
+ComplexPOJO\ComplexPOJO.class
+Authentication\Authentications.class
+ComplexPOJO\AdrPOJO.class
+POJOComplexWithArr\POJOComplexWithArr.class
+ComplexPOJO\POJOreq.class
+POJOComplexWithArr\POJOReq.class
+ApiChaining\ApiChaining.class
+APIProject\POJOreq.class
+POJOComplexWithArr\POJOadr.class
